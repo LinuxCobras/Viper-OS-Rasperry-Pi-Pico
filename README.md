@@ -22,3 +22,4 @@ cd 	create directory
 ci 	create a blank .img file
 rd 	delete a selected directory
 rmdr 	to type a one line reminder and is useful for work and school 
+--------------------------------------------------------------------------------------------------------------------------in order to install you unzip the file and drag the file into your raspberry pi pico file system via thonny ide or other similar ides and before doing this you must download the firmware for micropython on your pico from the official raspberry pi website to do so
