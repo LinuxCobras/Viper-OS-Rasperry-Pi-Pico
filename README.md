@@ -1,3 +1,5 @@
+<img width="1917" height="413" alt="Screenshot 2026-05-02 002414" src="https://github.com/user-attachments/assets/0bff0807-b3f9-429a-b455-d4bebe0acab7" />
+<img width="1896" height="162" alt="Screenshot 2026-05-02 002712" src="https://github.com/user-attachments/assets/cfbedf2c-8794-4e33-b73e-e38b8e6256fd" />
 # Viper-OS-Rasperry-Pi-Pico
 #This is a micropython open source operating system for the raspberry pi pico the commands are based on unix/linux commands more info can be found on the website (scriptcobra)
 The goal of this os is to turn the pi pico into a everyday micro workstation
