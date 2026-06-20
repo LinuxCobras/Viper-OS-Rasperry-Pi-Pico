@@ -1,0 +1,5 @@
+PIPER KERNEL
+the piper kernel is the base source code of viper os that you can use to develop your own pico os 
+it has basic file system commands like ld and rf
+it also has core import and variables from viper os
+and in order to use it you download it rename it from kernel.py to main.py and then load it into a code editor and do what you wish with it save it and put it onto your pi pico's flash storage
